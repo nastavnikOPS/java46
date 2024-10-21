@@ -12,7 +12,7 @@ public class Koloda {
         cards[2] = new Card("Двойка черви", 2);
         cards[3] = new Card("Двойка бубна", 2);
 
-        cards[4] = new Card("Тройка трефа", 3);
+        cards[4] = new Card("Тройка ТРЕФА", 3);
         cards[5] = new Card("Тройка пика", 3);
         cards[6] = new Card("Тройка черви", 3);
         cards[7] = new Card("Тройка бубна", 3);

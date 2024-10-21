@@ -8,7 +8,7 @@ public class Main {
 
         vasya.setAge(23);
         petya.setAge(17);
-        vasya.setName("Тата");
+        vasya.setName("ТАТА");
 
         System.out.println(vasya.getAge());
         System.out.println(petya.getAge());
